@@ -22,3 +22,7 @@ git merge bugFix
 git rebase main
 git checkout main
 git rebase bugFix
+
+  30.03.2022
+  https://dillinger.io
+  
