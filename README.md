@@ -26,3 +26,7 @@ git rebase bugFix
   30.03.2022
   https://dillinger.io
   
+  1. Command line essentials
+  2. Using source control in VS Code
+    a. Commiting
+
